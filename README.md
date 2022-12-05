@@ -20,6 +20,7 @@ Dung hai lệnh để commit thay đổi lên Gitrepo:
 
 ***
 git add .
+
 git commit -m "Thông điệp commit"
 ***
 
